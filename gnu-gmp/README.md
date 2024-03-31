@@ -1,3 +1,5 @@
+version: gmp-6.3.0
+
 note: only arm64-v8a and x86_64 are supported
 
 usage:
