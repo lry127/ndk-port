@@ -1,4 +1,4 @@
-note: only arm64-v8a and x86_64 is supported
+note: only arm64-v8a and x86_64 are supported
 
 usage:
 
