@@ -1,3 +1,5 @@
+note: only arm64-v8a and x86_64 is supported
+
 usage:
 
 in `build.gradle.kts`
