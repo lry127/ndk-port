@@ -3,7 +3,7 @@ usage:
 in `build.gradle.kts`
 ```
 dependencies {
-    implementation(files("libs/modified.aar"))
+    implementation(files("libs/gmp.aar"))
 }
 ```
 
